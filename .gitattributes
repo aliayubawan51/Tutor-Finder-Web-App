@@ -1,3 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<<<<<<< HEAD
 Tutor[[:space:]]Finder.zip filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> b907758cdfb6d7ddfa7d8aa803e0b34485ec8379
